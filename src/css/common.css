@@ -16,3 +16,13 @@ img {
   display: block;
   max-width: 100%;
 }
+
+
+  .btn-start {
+  background-color: greenyellow;
+
+  }
+  .btn-stop {
+    background-color: red;
+  
+    }
